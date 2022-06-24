@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "scale_finder_2"
+name = "scale_finder"
 version = "0.1.0"
